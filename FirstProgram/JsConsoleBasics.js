@@ -102,5 +102,20 @@
 // console.log(60*24*365); //минут в году
 // console.log(1024**4); //байт в терабайте
 
-//Практика на формулы
-//Мне лень делать дальше, поэтому to be continued...
+        /*Практика на формулы*/
+// //1
+// let radius = prompt('Enter radius of circle');
+// let s = Math.PI * radius**2;
+// console.log(+s.toFixed(2));
+// //2
+// let a = prompt('Enter A');
+// let s = 2 * a**2;
+// console.log(s);
+// //3
+// let a, b;
+// a = prompt('Enter A');
+// b = prompt('Enter B');
+// let s = 2 * a * b;
+// console.log(s);
+
+//to de continued...
